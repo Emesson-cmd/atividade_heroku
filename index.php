@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html>
-<body>
+    <head>
+        <title>Atividade desenvolvimento web</title>
+    </head>
+    <body>
 
-<?php
-echo "My first PHP script!";
-echo "<br>data de aniversário: "
-?>
+    <?php
+        echo "<h1>Atividade de desenvolvimento web</h1>";
 
-</body>
+        echo "Disciplina: Desenvolvimento web
+        <br> Semestre: 30º
+        <br> Aluno: Emesson Cavalcante";
+    ?>
+
+    <br><br>
+
+    <a href="#">Create</a><br>
+    
+    <a href="#">Read</a>
+    </body>
 </html> 
