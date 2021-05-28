@@ -15,8 +15,8 @@
 
     <br><br>
 
-    <a href="#">Create</a><br>
+    <a href="Database/crud/create.php">Create</a><br>
     
-    <a href="#">Read</a>
+    <a href="Database/crud/read.php">Read</a>
     </body>
 </html> 
