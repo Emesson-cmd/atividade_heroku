@@ -20,10 +20,10 @@
     }
     }
 
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "escola";
+    $servername = " sqlXXX.epizy.com";
+    $username = "epiz_28731693";
+    $password = "nl801mg7iPTbM";
+    $dbname = "epiz_28731693_escola";
 
     try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
