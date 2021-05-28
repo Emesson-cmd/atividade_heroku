@@ -4,7 +4,7 @@
 
 <?php
 echo "My first PHP script!";
-echo "data de aniversário: "
+echo "<br>data de aniversário: "
 ?>
 
 </body>
