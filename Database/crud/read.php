@@ -20,7 +20,7 @@
     }
     }
 
-    $servername = " sqlXXX.epizy.com";
+    $servername = " sql100.epizy.com";
     $username = "epiz_28731693";
     $password = "nl801mg7iPTbM";
     $dbname = "epiz_28731693_escola";
