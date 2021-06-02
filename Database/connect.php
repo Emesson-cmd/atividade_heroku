@@ -1,7 +1,7 @@
 <?php
-    $servername = " sqlXXX.epizy.com";
-    $username = "epiz_28731693";
-    $password = "nl801mg7iPTbM";
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
     // $dbname = "epiz_28731693_escola";
 
     // Create connection
